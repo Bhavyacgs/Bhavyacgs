@@ -15,7 +15,8 @@
 <div>
  
 * I am a Data Science professional with 2 years of experience leveraging data to drive business decisions and improve operations.  
-* I hold a Master’s degree in Computer and Information Sciences from Florida International University, with deep expertise in large language models (LLMs), deep learning, and NLP. 
+* I hold a Master’s degree in Computer and Information Sciences from Florida International University, with deep expertise in large language models (LLMs), deep learning, and NLP.
+* I am skilled in statistics, machine learning, and programming, with a proven track record of delivering actionable insights through data analysis.
  
 * I specialize in building safe and scalable ML systems with robust guardrails, particularly in financial and healthcare domains. With strong skills in statistics, machine learning, and programming, I have a proven track record of delivering actionable insights that create real impact.
 
