@@ -1,5 +1,5 @@
 
-<h1 align="center"># 👋 Hi there, I'm Bhavya! </h1>
+<h1 align="center">👋 Hi there, I'm Bhavya! </h1>
 <h3 align="center">A passionate "Data Science" Learner!!</h3>
 
 
